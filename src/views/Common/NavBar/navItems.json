@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "el-icon-s-home",
+    "title": "首页",
+    "path": "/Nav/Home"
+  },
+  {
+    "icon": "el-icon-s-home",
+    "title": "牛只信息",
+    "path": "/Nav/Info"
+  },
+  {
+    "icon": "el-icon-s-home",
+    "title": "牛只管理",
+    "path": "/Nav/Manage"
+  },
+  {
+    "icon": "el-icon-user-solid",
+    "title": "我的",
+    "path": "/Nav/Profile"
+  }
+]
